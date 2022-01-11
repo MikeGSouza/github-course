@@ -7,3 +7,5 @@ Teste de modificação de arquivo.
 Mais uma linha de teste.
 
 Nova modificação.
+
+Teste de push para o repositório.
